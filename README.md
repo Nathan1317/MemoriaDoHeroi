@@ -3,7 +3,7 @@
 O **Jogo da Memória** é um desafio clássico que testa a sua atenção e habilidade de raciocínio. Com um conjunto de cartas dispostas viradas para baixo, o objetivo é encontrar os pares de cartas idênticas, virando duas cartas por vez. O jogador precisa se lembrar da posição das cartas já viradas para conseguir combinar os pares corretamente.
 
 ## 🔹 **Como Jogar:**
-1.<a https://nathan1317.github.io/MemoriaDoHeroi/">Link do jogo!<
+1.<a https://nathan1317.github.io/MemoriaDoHeroi/"> Link do jogo!<
 
 2. As cartas são dispostas de forma aleatória, viradas para baixo.  
 3. O jogador escolhe duas cartas para virar, uma de cada vez.  
